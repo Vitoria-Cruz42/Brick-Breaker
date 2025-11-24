@@ -1,2 +1,2 @@
-# Flappy-Bird
-Jogo no estilo Flappy Bird feito em Python para uma atividade do IFES.
+# Brick-Breaker
+Jogo no estilo Brick Breaker feito em Python para uma atividade do IFES.
